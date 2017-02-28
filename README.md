@@ -10,6 +10,7 @@ mathematics required for programming.
 Math hacks is a website that anybody may edit!
 
 FAQ:
+
   -Why is it called Math Hacks?
-    Because it is designed around the idea of "hacking" your brain to do math
-    well!
+  Because it is designed around the idea of "hacking" your brain to do math
+  well!
